@@ -1,0 +1,40 @@
+.hero {
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: #fff;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+
+.carousel-item p {
+    font-size: 1.2em;
+}
+
+.row div {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 10px;
+    background: #fff;
+}
+
+.btn-warning {
+    background-color: #ffcc00;
+    border-color: #ffc107;
+}
+
+.bg-primary {
+    background-color: #007bff !important;
+}
